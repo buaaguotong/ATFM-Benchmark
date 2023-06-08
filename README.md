@@ -1,7 +1,7 @@
 ## Brief Description of the ATFM Benchmark
 
 This air traffic flow management (ATFM) benchmark consists of eight national-wide instances, which are extracted from Chinese domestic airspace during different period.
-This benchmark is used as a test suite in our paper titled "A Knee-Guided Evolutionary Algorithm for Multi-Objective Air Traffic Flow Management", which is submitted to IEEE Transactions on Evolutionary Computation.
+This benchmark is used as a test suite in our paper titled "A Knee-Guided Evolutionary Algorithm for Multi-Objective Air Traffic Flow Management" and "Cooperative Co-Evolution for Large-Scale Multi-Objective Air Traffic Flow Management".
 
 Each instance is named as ''MM-DD-AM/PM''. The running period covers morning (AM, 9:00--12:00) and afternoon (PM, 15:00--18:00), weekday and weekend. Their basic information is shown in the following table. Each instance consists of around 900+ scheduled aircraft, 180+ airports, 2000+ available air routes. 
 
