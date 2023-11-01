@@ -1,7 +1,9 @@
 ## Brief Description of the ATFM Benchmark
 
-This air traffic flow management (ATFM) benchmark consists of eight national-wide instances, which are extracted from Chinese domestic airspace during different period.
-This benchmark is used as a test suite for Multi-Objective Air Traffic Flow Management.
+This air traffic flow management (ATFM) benchmark consists of eight national-wide instances, which are extracted from Chinese domestic airspace during different periods.
+This benchmark is used as a test suite for Air Traffic Flow Management.
+
+Note that the released data are Simplified Version of the original data. The whole original data, unfortunately, cannot be fully disclosed due to stringent data privacy concerns and confidentiality agreements in place with our data providers. These agreements strictly limit the extent of data sharing to ensure the protection of sensitive information intrinsic to air traffic operations. However, to contribute to the community, we have made a conscientious effort to share a representative subset of the data. This includes details of the basic backbone network structure, information about hub airports, and departure times that are sampled from a Poisson distribution. We believe that this subset is sufficient for understanding the context and replicating the experimental setup, while still adhering to the confidentiality constraints imposed on us.
 
 Each instance is named as ''MM-DD-AM/PM''. The running period covers morning (AM, 9:00--12:00) and afternoon (PM, 15:00--18:00), weekday and weekend. Their basic information is shown in the following table. Each instance consists of around 900+ scheduled aircraft, 180+ airports, 2000+ available air routes. 
 
